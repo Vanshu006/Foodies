@@ -1,0 +1,24 @@
+.hero-section {
+    background-image: url('images/bg/bg-1.jpg');
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  h1{
+    color: rgb(66, 65, 65);
+    font-weight: 200;
+    
+  }
+  p{
+    color: #000;
+  }
+  #btn:hover{
+    background-color: blue;
+
+  }
+  footer{
+    color: aliceblue;
+  }
